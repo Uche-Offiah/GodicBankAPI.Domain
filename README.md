@@ -1,0 +1,1 @@
+# GodicBankAPI.Domain
